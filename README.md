@@ -1,4 +1,4 @@
-# Hi, I'm Kuan-WEI,Peng
+# Hi, I'm KUAN-WEI,PENG
 
 Computer Science student at Chang Gung University interested in distributed systems, data analysis, and practical software engineering.
 
