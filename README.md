@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Eric Peng
 
-<!--
-**aa0909998429-ux/aa0909998429-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Chang Gung University interested in distributed systems, data analysis, and practical software engineering.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Distributed Wikipedia TF-IDF](https://github.com/aa0909998429-ux/distributed-wikipedia-tfidf)  
+  Docker-based distributed crawler with PHP dashboard, three Python workers, Chinese tokenization, and TF-IDF keyword analysis.
+
+- [Taiwan PII Filter](https://github.com/aa0909998429-ux/tw-pii-filter)  
+  Privacy-aware text processing project for detecting and protecting personally identifiable information.
+
+- [Stock Prediction Dashboard](https://github.com/aa0909998429-ux/Stock-Prediction-Dashboard)  
+  Python dashboard for exploring stock data and forecast results.
+
+- [Smart Weight Scale](https://github.com/aa0909998429-ux/Smart_Weight_Scale)  
+  Python BLE tool for connecting to and reading data from a smart scale.
+
+## Skills
+
+Python · PHP · Docker · TF-IDF · Web Crawling · Data Analysis · BLE · Git/GitHub
+
+## Contact
+
+- Email: [aa0909998429@gmail.com](mailto:aa0909998429@gmail.com)
