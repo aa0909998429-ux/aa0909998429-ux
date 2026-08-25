@@ -4,6 +4,9 @@ Computer Science student at Chang Gung University interested in distributed syst
 
 ## Featured Projects
 
+- [Smart Medicine Cabinet](https://github.com/aa0909998429-ux/Smart_Medicine_Cabinet)  
+  Flutter-based smart medicine cabinet prototype with OCR, local SQLite medication search, inventory tracking, symptom filtering, and duplicate-ingredient alerts.
+
 - [Distributed Wikipedia TF-IDF](https://github.com/aa0909998429-ux/distributed-wikipedia-tfidf)  
   Docker-based distributed crawler with PHP dashboard, three Python workers, Chinese tokenization, and TF-IDF keyword analysis.
 
