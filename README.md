@@ -18,6 +18,7 @@ Computer Science student at Chang Gung University interested in distributed syst
 |---|---|---|
 | [Taiwan PII Filter](https://github.com/JustinGNPS/tw-pii-filter) | 在資料送往雲端 AI 前，於本機偵測並去識別化臺灣常見個資；結合檢核碼驗證、NER 語意偵測、風險評分與可逆還原機制。 | 4 人 · [我的貢獻](https://github.com/JustinGNPS/tw-pii-filter/commits?author=aa0909998429-ux) |
 | [PolicyVault Sentinel](https://github.com/MrJ6000/god_damn_chill_out) | 企業應付帳款的 AI 安全授權原型；以 Next.js、React、Express、TypeScript、Solidity 與 Foundry 分離 AI 付款提案、確定性政策與鏈上合約檢查。 | 5 人 · [我的貢獻](https://github.com/MrJ6000/god_damn_chill_out/commits?author=aa0909998429-ux) |
+| Sarcopenia Skeletal Detection 🔒 | 從起立坐下、行走、半蹲影片判斷肌少症風險並提供可解釋依據；以 MediaPipe 擷取 33 點骨架，比較手工特徵基線與 ST-GCN／Shift-GCN 圖神經網路（合成資料預訓練），並整合後端 API 與前端網頁。 | 團隊 · 含醫療個案資料，repo 不公開 |
 
 ## Skills
 
